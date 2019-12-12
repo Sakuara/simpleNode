@@ -1,4 +1,4 @@
-### Instroduction
+### Introduction
 This is a simple demo for node, express and MySQL.
 
    Currently run with:
